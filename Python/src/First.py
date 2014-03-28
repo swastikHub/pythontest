@@ -7,3 +7,4 @@ def addFixedValue(a):
   
 print add(1,2)
 print addFixedValue(1)
+print add(4,4)
